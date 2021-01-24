@@ -433,18 +433,18 @@ nav #menu {
 
 
 
-  #floating-content{
-        top: 60%;
-        
-    }
-
-    
-    #floating-content h2 {
-        font-size: 35px;
+  #floating-content h2 {
+        font-size: 45px;
         font-family: 'Cormorant', serif;
         color: #ffffff;
-        font-weight: 400;
+        font-weight: 600;
     }
+
+    #floating-content span{
+        font-weight: 800;
+        font-family: 'Cormorant', serif;
+    }
+
 
     #floating-content button {
         font-size: 12px;
