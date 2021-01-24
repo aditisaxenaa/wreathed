@@ -430,7 +430,12 @@ nav #menu {
         overflow-x: hidden;
         height: 100vh;
     }
-
+    
+ #floating-content{
+        top: 60%;
+        width: 70%;
+        padding: 15px 0px;
+    }
 
 
   #floating-content h2 {
@@ -442,7 +447,7 @@ nav #menu {
 
     #floating-content span{
         font-weight: 800;
-        font-family: 'Cormorant', serif;
+        
     }
 
 
