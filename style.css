@@ -407,6 +407,10 @@ nav #menu {
     nav h4{
         font-size: 20px;
     }
+    
+     nav #menubar{
+        margin-right: 15px;
+    }
 
     nav i{
         font-size: 10px;
